@@ -12,7 +12,7 @@ import numpy as np
 class CalculadoraCalculo:
     def __init__(self, root):
         self.root = root
-        self.root.title("Calculadora de Cálculo")
+        self.root.title("Calculadora de Cálcul")
         self.root.geometry("1000x700")
         self.root.configure(bg='#2b2b2b')
         
